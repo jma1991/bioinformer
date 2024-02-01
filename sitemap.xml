@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.myblogexample.io/about.html</loc>
+    <loc>https://jma1991.github.io/bioinformer/about.html</loc>
     <lastmod>2024-02-01T19:15:39.527Z</lastmod>
   </url>
   <url>
-    <loc>https://www.myblogexample.io/posts/welcome/index.html</loc>
+    <loc>https://jma1991.github.io/bioinformer/posts/welcome/index.html</loc>
     <lastmod>2024-02-01T19:15:39.537Z</lastmod>
   </url>
   <url>
-    <loc>https://www.myblogexample.io/posts/post-with-code/index.html</loc>
+    <loc>https://jma1991.github.io/bioinformer/posts/post-with-code/index.html</loc>
     <lastmod>2024-02-01T19:15:39.537Z</lastmod>
   </url>
   <url>
-    <loc>https://www.myblogexample.io/index.html</loc>
+    <loc>https://jma1991.github.io/bioinformer/index.html</loc>
     <lastmod>2024-02-01T19:15:39.536Z</lastmod>
   </url>
 </urlset>
