@@ -1,1 +1,1 @@
-Sitemap: https://www.myblogexample.io/sitemap.xml
+Sitemap: https://jma1991.github.io/bioinformer/sitemap.xml
