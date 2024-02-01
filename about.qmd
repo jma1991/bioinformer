@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/jma1991
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/jma1991
+    - icon: github
+      text: Github
+      href: https://github.com/jma1991
+
+---
+
+This is the contents of the about page for my blog.
