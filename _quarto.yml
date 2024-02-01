@@ -4,7 +4,7 @@ project:
 
 website:
   title: "bioinformer"
-  site-url: https://www.myblogexample.io
+  site-url: https://jma1991.github.io/bioinformer
   description: "A great sample blog"
   navbar:
     right:
